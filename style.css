@@ -1,0 +1,263 @@
+
+@font-face {
+font-family: "AkzidenzGroteskPro";  
+src: url("./fonts/AkzidenzGroteskPro-Bold.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: bold;
+ }
+
+@font-face {
+font-family: "AkzidenzGroteskPro";  
+src: url("./fonts/AkzidenzGroteskPro-Regular.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal;
+ }
+
+@font-face {
+font-family: "AkzidenzGroteskPro";  
+src: url("./fonts/AkzidenzGroteskPro-Super.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal;
+ }
+
+body {
+	background: #FBF8F2;
+  font-family: 'AkzidenzGroteskPro-Regular', sans-serif;
+  position: relative;
+	}
+
+.heading {
+  font-family: "AkzidenzGroteskPro-Bold",sans-serif;
+  font-size: 22px;
+  color: #2B3C51;
+  font-weight: 700;
+  letter-spacing: 1.4px;
+  line-height: 20px; 
+}
+
+li {
+    list-style-type: none;
+    font-size: 21px;
+   }
+
+p {
+  color: #2B3C51;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 30px;
+}
+
+h2 {
+  font-family: "AkzidenzGroteskPro-Bold",sans-serif;
+  font-size: 36px;
+  color: #2B3C51;
+  font-weight: 700;
+  line-height: 41px; 
+  margin-bottom: 12px;
+}
+
+h3 {
+  font-family: "AkzidenzGroteskPro-Bold",sans-serif;
+  font-size: 27px;
+  color: #2B3C51;
+  font-weight: 700;
+  line-height: 37px; 
+}
+
+h5 {
+  font-family: "AkzidenzGroteskPro-Super",sans-serif;
+  font-size: 21px;
+  color: #2B3C51;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.4px;
+}
+
+.navbar-brand {
+  font-family: "AkzidenzGroteskPro-Super",sans-serif;
+  font-size: 28px;
+  color: #2B3C51!important;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-left: 35px;
+  padding-top: 25px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #2B3C51;
+}
+
+.nav-item.active {
+   text-decoration: underline;
+}
+
+.navbar-expand-lg .navbar-collapse
+{
+  flex-flow: row-reverse;
+  padding-top: 25px;
+  padding-right: 50px;
+}
+
+.bg-light {
+  background-color:transparent!important;
+}
+
+.col-md-6.mt-md-0.mt-3 {
+  padding-left: 50px;
+}
+
+.col-6 {
+  padding-left: 15px;
+}
+
+.img-fluid.image_1 {
+  padding-top: 20px;
+}
+
+.img-fluid.image_2 {
+  padding-top: 10px;
+  padding-left: 12px;
+}
+
+.img-fluid.image_4 {
+  padding-left: 15px;
+}
+
+.name-1 {
+  padding-left: 40px;
+  margin-top: 10px;
+}
+
+ .container.part2 {
+  margin-top: 50px;
+  padding-left: 25px;
+ }
+
+ .container.part3 {
+  margin-top: 55px;
+ }
+
+ .container.part4 {
+  margin-top: 70px;
+  margin-bottom: 45px;
+ }
+
+.picture_1 {
+ text-align: center;
+}
+
+
+.picture_3 {
+  padding-top: 65px;
+  text-align: center;
+}
+
+ .col-sm-8 {
+  padding-left: 10px;
+ }
+
+ .сol-6.link {
+  text-align: right;
+ }
+
+ .col-6.illustration {
+  padding-top:5px;
+ }
+
+ .col-6.our-sweaters {
+  padding-left: 25px;
+ }
+
+  .col-6.new-items {
+  padding-left: 25px;
+ }
+
+ .link-all {
+  font-family: "AkzidenzGroteskPro-Regular",sans-serif;
+  color: #2B3C51;
+  font-weight: 400;
+  font-size: 21px;
+  letter-spacing: 0.4px;
+  line-height: 30px;
+ }
+
+ .sweater-1 {
+  padding-top: 20px;
+  padding-left: 10px;
+ }
+
+ .sweater-1:hover {
+  transform: scale(1.1);
+ }
+
+  .sweater-2 {
+  padding-top: 20px;
+ }
+
+  .sweater-2:hover {
+  transform: scale(1.1);
+ }
+
+  .sweater-3 {
+  padding-top: 20px;
+ }
+
+  .sweater-3:hover {
+  transform: scale(1.1);
+ }
+
+ .price {
+  padding-top: 30px;
+ }
+
+ .price-link {
+  padding-top: 30px;
+  font-family: "AkzidenzGroteskPro-Regular",sans-serif;
+  color: #2B3C51;
+  font-weight: 400;
+  font-size: 21px;
+  letter-spacing: 0.4px;
+  line-height: 30px;
+ }
+
+.page-footer.font-small.blue.pt-4 {
+  margin-top: 55px;
+  margin-bottom: 35px;
+}
+
+ .linkAllModels {
+  text-align: right !important;
+  padding-top: 12px;
+  padding-right: 25px;
+ }
+
+.nav-link:hover {
+  text-decoration: underline;
+  color: #007bff !important;
+
+}
+
+.nav-link.active {
+  color: #2B3C51 !important;
+}
+
+.container.main {
+  padding-left: 30px;
+}
+
+.footer-text {
+  font-family: "AkzidenzGroteskPro-Regular",sans-serif;
+  color: #2B3C51;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.col-md-3.mb-md-0.mb-3 {
+  margin-top: 30px;
+}
+
+.social-image {
+  padding-left: 80px!important;
+}
+
