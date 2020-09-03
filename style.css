@@ -39,26 +39,7 @@
 }
 
 
-/*@font-face {
-font-family: "AkzidenzGroteskPro";  
-src: url("./fonts/AkzidenzGroteskPro-Bold.ttf") format("truetype"); 
-font-style: normal; 
-font-weight: bold;
- }
 
-@font-face {
-font-family: "AkzidenzGroteskPro";  
-src: url("./fonts/AkzidenzGroteskPro-Regular.ttf") format("truetype"); 
-font-style: normal; 
-font-weight: normal;
- }
-
-@font-face {
-font-family: "AkzidenzGroteskPro";  
-src: url("./fonts/AkzidenzGroteskPro-Super.ttf") format("truetype"); 
-font-style: normal; 
-font-weight: bold;
- }*/
 
 body {
 	background: #FBF8F2;
@@ -148,9 +129,7 @@ h5 {
   background-color:transparent!important;
 }
 
-/*.col-md-6.mt-md-0.mt-3 {
-  padding-left: 50px;
-}*/
+
 
 .col-6 {
   padding-left: 15px;
@@ -165,9 +144,7 @@ h5 {
 /*  padding-left: 12px;*/
 }
 
-/*.img-fluid.image_4 {
-  padding-left: 15px;
-}*/
+
 
 .name-1 {
   padding-left: 40px;
@@ -176,11 +153,11 @@ h5 {
 
  .container.part2 {
   margin-top: 55px;
-/*  padding-left: 30px;*/
+
  }
 
  .container.main {
-/*  padding-left: 30px;*/
+
   margin-top: -3px;
  }
 
@@ -205,7 +182,7 @@ h5 {
 
  .col-sm-8 {
   margin-left:-20px;
- /* padding-left: 10px;*/
+
  }
 
  .сol-6.link {
@@ -216,13 +193,6 @@ h5 {
   padding-top:5px;
  }
 
-/* .col-6.our-sweaters {
-  padding-left: 25px;
- }*/
-
-/*  .col-6.new-items {
-  padding-left: 25px;
- }*/
 
  .link-all {
   font-family: "AkzidenzGroteskPro-Regular",sans-serif;
@@ -235,7 +205,6 @@ h5 {
 
  .sweater-1 {
   padding-top: 20px;
-  /*padding-left: 10px;*/
  }
 
  .sweater-1:hover {
@@ -311,8 +280,34 @@ h5 {
   padding-left: 100px!important;
 }
 
-/*.col-sm.sweater-3 {
-margin-left:-20px;
+.Vyazan-image {
+  background-image: url("picture_1.png");
+  background-repeat: no-repeat;
+  height: 628px;
 
-}*/
+}
+
+.Zag {
+  padding-left: 30px;
+  padding-top: 48px;
+  max-width: 620px;
+
+}
+
+.Podzag {
+  padding-top: 26px;
+  max-width: 250px;
+  margin-left: 160px;
+
+}
+
+.Podzag-text {
+  font-family: "AkzidenzGroteskPro-Regular",sans-serif;
+  color: #2B3C51;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 28px;
+
+}
+
 
