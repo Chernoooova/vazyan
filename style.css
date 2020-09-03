@@ -70,7 +70,14 @@ p {
   line-height: 30px;
 }
 
-
+h1 {
+  font-family: "AkzidenzGroteskPro-Bold",sans-serif;
+  font-size: 91px;
+  color: #2B3C51;
+  font-weight: 700;
+  line-height: 90px; 
+  margin-bottom: 12px;
+}
 
 h2 {
   font-family: "AkzidenzGroteskPro-Bold",sans-serif;
